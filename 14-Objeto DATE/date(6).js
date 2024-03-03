@@ -1,0 +1,1 @@
+// En este ejercicio vas a crear una función capaz de determinar el número de horas, minutos y segundos entre dos horas de un mismo día. La función que puedes llamar intervalo tiene dos argumentos string con los tiempos en formato hh:mm:ss

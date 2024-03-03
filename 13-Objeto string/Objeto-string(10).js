@@ -1,0 +1,1 @@
+// Esta función que se pide va a recibir como argumento un texto con información. El texto es una cadena donde aparecen pares de la forma nombre dato: valor dato. La función debe convertir esta cadena en un objeto con campos identificados con nombre dato y valor dado por valor dato.

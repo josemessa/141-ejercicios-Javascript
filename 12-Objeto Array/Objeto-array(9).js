@@ -1,0 +1,1 @@
+// En este ejercicio partimos de dos arrays: artículos que contiene nombres de artículos y precios que contiene lo precios correspondientes de cada artículo. Se trata de crear una función precio(art) que lleva como argumento el nombre de un artículo y devuelve el precio correspondiente. si el artículo no existe devolverá -1.

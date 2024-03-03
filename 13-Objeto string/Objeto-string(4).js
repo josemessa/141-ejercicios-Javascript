@@ -1,0 +1,1 @@
+// Escribe una función recursiva que cuente el número de veces que un carácter dado aparece en una cadena. La función recibe como argumentos la cadena y el carácter buscado.

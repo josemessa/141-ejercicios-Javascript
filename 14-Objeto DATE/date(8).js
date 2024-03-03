@@ -1,0 +1,1 @@
+// Esta función debe determinar si el año de una determinada fecha es bisiesto o no. Recuerda un año es bisiesto si es múltiplo de 4, excepto el primer año del siglo (1500, 1600...) que solo lo será es divisible por 400
