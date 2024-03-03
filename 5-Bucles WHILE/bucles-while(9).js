@@ -1,0 +1,1 @@
+// Este script muestra un menu de opciones: 1- Leer datos. 2- Mostrar datos 3- Fin. El usuario deberá teclear uno de ellos y el programa mostrará la opción elegida. Si teclea un valor fuera del menu se mostrará un mensaje de error y se vuelve a pedir un número de opción. El programa finaliza al teclear el 3.

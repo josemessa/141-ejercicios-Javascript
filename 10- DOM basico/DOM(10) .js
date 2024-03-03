@@ -1,0 +1,1 @@
+// El primer botón de la barra de botones en la parte superior de la página tiene el texto abrir/cerrar. Al pulsarlo se deben ocultar o mostrar los botones restantes, pero el de abrir/cerrrar debe quedar visible.

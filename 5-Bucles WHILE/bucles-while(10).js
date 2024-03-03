@@ -1,0 +1,1 @@
+// Un script pedirá al usuario que vaya tecleando números de manera repetida. cuando pulse 0, el programa muestra "La suma es " seguido de la suma de los números. Si esta suma es par el programa se repite y si es impar el programa acaba.

@@ -1,0 +1,1 @@
+// En este script se le pide al usuario que teclee dos números, el script mostrará la suma y pedirá al usuario si queire repetir. Si teclea S repite y si teclea N el programa sale. No debe aceptar otras teclas
